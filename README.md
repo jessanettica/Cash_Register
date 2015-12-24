@@ -2,7 +2,7 @@
 
 Java cash register application that:
 
-## Prompts the user to select an item to add to the cart:
+### Prompts the user to select an item to add to the cart:
 
 ![Select an Item](/static/select_item.png)
 
